@@ -1,0 +1,1 @@
+![struktogram](./Struktogramm_Aufgabe_1_&_2.png)
