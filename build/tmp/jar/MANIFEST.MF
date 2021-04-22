@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2021-04-22T11:24:53.824+0200
+Built-By: Griefed
+Build-OS: Windows 10 amd64 10.0
+Created-By: Gradle 6.8
+Build-Jdk: 1.8.0_271 (Oracle Corporation 25.271-b09)
+Main-Class: de.griefed.uebungsaufgabewuerfel.Main
+

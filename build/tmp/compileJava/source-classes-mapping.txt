@@ -1,0 +1,2 @@
+de/griefed/uebungsaufgabewuerfel/Main.java
+ de.griefed.uebungsaufgabewuerfel.Main
